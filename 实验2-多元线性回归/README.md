@@ -1,0 +1,6 @@
+初级要求：beginner_level_1.py实现了最基础的多元线性回归模型
+初级要求：beginner_level_2.py实现了学习率的比较与可视化展示
+中级要求：Intermediate_level_1.py实现了特征重要性排序与交互作用分析
+中级要求：Intermediate_level_2.py实现了P值的统计与统计显著性分析
+高级要求：Advanced_level_1.py实现了岭回归和LASSO回归与时间序列可视化
+高级要求：Advanced_level_2.py实现了模型优化与时间序列可视化
